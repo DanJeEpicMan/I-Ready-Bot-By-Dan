@@ -9,6 +9,6 @@ DO NOT USE ON QUIZ PART
 5. press "s"
 NOTE: this is still a working progect and I will updat where it clicks first to bettwe efficiency
 
-A1. To run this program in the backround simpilly set up a Virtual Machine (google it of you dont know how)
-A2. follow steps 1-5 INSIDE THE VM and then let the VM run in the backround while you do other stuff
-A3. Do not close or minimize the VM, just put whatever tab you need (google or vidio game and stuff) over it.
+1A. To run this program in the backround simpilly set up a Virtual Machine (google it of you dont know how)
+2A. follow steps 1-5 INSIDE THE VM and then let the VM run in the backround while you do other stuff
+3A. Do not close or minimize the VM, just put whatever tab you need (google or vidio game and stuff) over it.
