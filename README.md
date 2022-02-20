@@ -7,7 +7,7 @@ Step set A
 2. make a file and copy and past the code from the "code" file (ALL 1817+ lines into AHK file)
 3. open a program called "Window Spy"
 5. open an iready tab and drag it into the top right of the screen
-6. click on the bottom left corrner of the tab and resize window till it is at the screen cords "632, 718" in the window spy program
+6. click on the bottom left corrner of the tab and resize window till it is at the screen cords "632, 718" in the window spy program OR do PT. 3 to automatically resize it
 7. press "8" to start and "9" to pause and unpause
 8. Check the program every cupple of minuts to see if it is stuck
 9. NOTE: this is still a working progect and I will updat where it clicks first to bettwe efficiency
@@ -19,3 +19,9 @@ Step set B
 
 PT. 2
 1. use code 2 if you want it to be faster, code does take more time to submit but generialy is 2x as fast 
+
+PT. 3
+1. to resize tab make a new AHK file and pasted the code in
+2. Run the code
+3. Drag the tab into the top right corrner
+4. Click on the bottom left of the tab to resize it, then click "7"
