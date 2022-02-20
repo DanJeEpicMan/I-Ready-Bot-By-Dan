@@ -1,0 +1,1008 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+8::
+loop, {
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 565 ; 565 ggggggggg
+mouseclick, left, 12, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 250 ; 250
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 280 ; 280
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 310 ; 310
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 340 ; 340
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 370 ; 370
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 400 ; 400
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 430 ; 430
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 465 ; 465
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 500 ; 500
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 530 ; 530
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 610, 565 ; 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 12, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 40, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 80, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 120, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 150, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 180, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 210, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 240, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 280, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 310, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 340, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 380, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 410, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 440, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 480, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 510, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 550, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 590, 600
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+}
+9::Pause
