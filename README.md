@@ -9,6 +9,7 @@ Step set A
 5. open an iready tab and drag it into the top right of the screen
 6. click on the bottom left corrner of the tab and resize window till it is at the screen cords "632, 718" in the window spy program
 7. press "8" to start and "9" to pause and unpause
+8. Check the program every cupple of minuts to see if it is stuck
 NOTE: this is still a working progect and I will updat where it clicks first to bettwe efficiency
 
 Step set B
