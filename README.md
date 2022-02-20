@@ -10,7 +10,7 @@ Step set A
 6. click on the bottom left corrner of the tab and resize window till it is at the screen cords "632, 718" in the window spy program
 7. press "8" to start and "9" to pause and unpause
 8. Check the program every cupple of minuts to see if it is stuck
-NOTE: this is still a working progect and I will updat where it clicks first to bettwe efficiency
+9. NOTE: this is still a working progect and I will updat where it clicks first to bettwe efficiency
 
 Step set B
 1. To run this program in the backround simpilly set up a Virtual Machine (google it of you dont know how)
