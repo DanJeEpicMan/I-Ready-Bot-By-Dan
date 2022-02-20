@@ -1,4 +1,174 @@
-s:: ; change the s if you want a diffrent keybind to start the program, remember to download AHK
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+8::
+loop, {
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 12, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 40, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 80, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 120, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 150, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 180, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 210, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 240, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 280, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 310, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 340, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 380, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 410, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 440, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 480, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 510, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 550, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 590, 565
+sleep, 20
+send, 2
+sleep, 20
+mouseclick, left, 314, 588
+sleep, 20
+mouseclick, left, 590, 590
+sleep, 20
+mouseclick, left, 610, 565 ; 565 ggggggggg
 mouseclick, left, 12, 250
 sleep, 20
 send, 2
@@ -1814,3 +1984,5 @@ sleep, 20
 mouseclick, left, 314, 588
 sleep, 20
 mouseclick, left, 590, 590
+}
+9::Pause
