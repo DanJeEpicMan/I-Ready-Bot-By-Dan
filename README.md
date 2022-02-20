@@ -16,3 +16,6 @@ Step set B
 1. To run this program in the backround simpilly set up a Virtual Machine (google it of you dont know how)
 2. follow Step set A steps 1-7 INSIDE THE VM and then let the VM run in the backround while you do other stuff
 3. Do not close or minimize the VM, just put whatever tab you need (google or vidio game and stuff) over it.
+
+PT. 2
+1. use code 2 if you want it to be faster, code does take more time to submit but generialy is 2x as fast 
