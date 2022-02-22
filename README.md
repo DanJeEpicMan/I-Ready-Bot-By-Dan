@@ -15,7 +15,7 @@ Step set C (EXE file)
 2. Open an iready tab and drag it into the top right of the screen
 3. Click on the bottom left of the tab to resize it, then click "7"
 4. Press 8 to start, 9 to pause and unpause
-
+5. (if you encouter a problem download the program called AutoHotKey)
 
 
 
