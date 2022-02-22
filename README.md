@@ -2,7 +2,27 @@
 Iready bot, look at file for instructions
 THIS PROGRAM CAN BE RAN IN BACKROUND (LOOK AT STEP SET B)
 DO NOT USE ON QUIZ PART
-Step set A
+
+USE STEPS A,B,PT.3,PT4 ONLY OF YOU ARE DOING THE AUTOHOTKEY FILE
+
+USE STEP SET C IF YOU ARE DOING THE .EXE FILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Step set C (EXE file)
+1. Download and run .exe
+2. Open an iready tab and drag it into the top right of the screen
+3. Click on the bottom left of the tab to resize it, then click "7"
+4. Press 8 to start, 9 to pause and unpause
+
+
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Step set A (The code files)
 1. download AHK
 2. make a file and copy and past the code from the "code" file (ALL 1817+ lines into AHK file)
 3. open a program called "Window Spy"
